@@ -1,0 +1,41 @@
+     body{
+         margin-left: 100px;
+         width:1000px;
+     }
+   
+     fieldset{
+         border: solid 2px black;
+         border-radius: 20px;
+         background: white;
+         margin-left: 200px;
+         margin-top: 200px;
+         padding: 30px;
+        }
+.col-md-4 control-label
+{
+    border: solid 1px #222;
+}
+.col-md-4
+{
+    width: auto!important;
+}
+body {
+  color: #222;
+  background: darkgray;
+}
+
+#singlebutton{
+    
+    margin-left: 200px;
+}
+fieldset{
+    height: 1240px;
+}
+.btn-primary{
+width: 200px;
+height: 50px;
+position: absolute;
+margin-left: 480px;
+margin-bottom: 30px;
+margin-top: -70px;
+}
